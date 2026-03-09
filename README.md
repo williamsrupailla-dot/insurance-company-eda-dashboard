@@ -236,31 +236,31 @@ Durante el análisis exploratorio se aplicaron diversos conceptos estadísticos:
 
 ## 🏠 Home
 
-*(Agregar captura de la página principal)*
+![Home](images/home.png)
 
 ---
 
 ## 📂 Dataset Overview
 
-*(Agregar captura de la carga de dataset)*
+![Dataset](images/dataset.png)
 
 ---
 
 ## 📊 Exploratory Data Analysis
 
-*(Agregar captura del dashboard de análisis)*
+![EDA](images/eda.png)
 
 ---
 
-## 🔎 Análisis Dinámico
+## 🔎 Análisis dinámico
 
-*(Agregar captura de los controles interactivos)*
+![Dynamic](images/dynamic.png)
 
 ---
 
 ## 📑 Conclusiones
 
-*(Agregar captura de la sección de conclusiones)*
+![Conclusions](images/conclusions.png)
 
 ---
 
