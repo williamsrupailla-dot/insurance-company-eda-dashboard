@@ -45,9 +45,13 @@ El enfoque del proyecto es **analítico y exploratorio**, no predictivo.
 # 🧱 Estructura del Proyecto
 Insurance-EDA-Dashboard/
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── InsuranceCompany.csv
 
 
@@ -319,3 +323,4 @@ Ing. Williams Michael Rupailla Ruiz
 🎓 Especialización en Python for Analytics
 
 📚 Edición 55 — 2026
+
