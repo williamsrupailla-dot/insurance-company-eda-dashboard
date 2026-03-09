@@ -284,9 +284,9 @@ Estas herramientas permiten desarrollar **aplicaciones analíticas interactivas 
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/williamsrupailla-dot/insurance-company-eda-dashboard.git
 
-cd TU_REPOSITORIO
+cd insurance-company-eda-dashboard
 
 Instalar dependencias:
 
@@ -303,14 +303,14 @@ streamlit run app.py
 
 Código fuente del proyecto:
 
-https://github.com/TU_USUARIO/TU_REPOSITORIO
+https://github.com/williamsrupailla-dot/insurance-company-eda-dashboard
 
 
 🌐 Aplicación desplegada en Streamlit
 
 Aplicación interactiva:
 
-https://TU_APP_STREAMLIT.streamlit.app
+https://insurance-company-eda-dashboard-iy8pop2e9g5nvpskbremmx.streamlit.app/
 
 ✍️ Autor
 
